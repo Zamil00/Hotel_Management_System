@@ -1,7 +1,9 @@
 #Hotel Management System
+
 The Hotel Management System is a desktop application written in Core Java and Swing GUI. The system is designed to provide an efficient and user-friendly way for managing hotel reservations, customer information, room availability, billing, and other related tasks.
 
 #Features
+
 -Login page with the username "admin" and the password "12345" 
 -User-friendly GUI interface using Swing
 -MySQL database for storing hotel, customer, and reservation data
@@ -13,12 +15,14 @@ The Hotel Management System is a desktop application written in Core Java and Sw
 -Search and filter hotel rooms by availability, price, room type, and more
 
 #Requirements
+
 -Java SE Development Kit (JDK) 8 or higher
 -MySQL database server
 -MySQL Connector/J JDBC driver
 -IntelliJ IDEA or any other compatible IDE
 
 #Installation
+
 -Clone or download the project from GitHub
 -Open the project in IntelliJ IDEA or your preferred IDE
 -Import the MySQL Connector/J JDBC driver to your project classpath
