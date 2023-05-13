@@ -50,6 +50,7 @@ The Hotel Management System is a desktop application written in Core Java and Sw
 
 -Enter the login credentials (username: admin, password: 12345)
 
+-In Ressources folder, I added a file (database.txt) where all used SQL commands are in.
 -Use the GUI interface to manage hotel, customer, and reservation information
 
 -Save changes and exit the application when finished
