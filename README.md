@@ -2,7 +2,7 @@
 The Hotel Management System is a desktop application written in Core Java and Swing GUI. The system is designed to provide an efficient and user-friendly way for managing hotel reservations, customer information, room availability, billing, and other related tasks.
 
 #Features
--Login page with the username "admin" and the password "12345"
+-Login page with the username "admin" and the password "12345" 
 -User-friendly GUI interface using Swing
 -MySQL database for storing hotel, customer, and reservation data
 -Add, edit, and delete customer information
